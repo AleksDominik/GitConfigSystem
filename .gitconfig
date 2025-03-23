@@ -1,0 +1,4 @@
+[includeIf "gitdir:<path_to_directory>"]
+        path = <path_to_gitconfig>
+[includeIf "gitdir:<path_to_directory_2>"]
+        path = <path_to_gitconfig_2>

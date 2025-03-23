@@ -1,0 +1,7 @@
+[user]
+email = <email>
+name = <Name>
+[github]
+user = "githubUser"
+[core]
+sshCommand = "ssh -i <path to rsa>"
